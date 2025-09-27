@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Checkout</h2>
+<ul>
+{% for item in items %}
+    <li>{{ item.product.name }} (x{{ item.quantity }})</li>
+{% endfor %}
+</ul>
+<p><strong>Total to Pay:</strong> ${{ total }}</p>
+<p>💳 (No real payments here, just a demo)</p>
+{% endblock %}
