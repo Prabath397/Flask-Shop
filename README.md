@@ -1,4 +1,4 @@
-\# 🛒 Flask E-Commerce Shop
+# 🛒 Flask E-Commerce Shop
 
 
 
@@ -10,7 +10,7 @@ A simple E-Commerce web app built with Flask + SQLite, allowing users to browse 
 
 
 
-\## 🚀 Features
+## 🚀 Features
 
 
 
@@ -42,14 +42,11 @@ A simple E-Commerce web app built with Flask + SQLite, allowing users to browse 
 
 
 
-\## 📂 Project Structure
+## 📂 Project Structure
 
 
 
 ```
-
-
-
 flask-shop/
 
 │── app.py
@@ -83,7 +80,7 @@ flask-shop/
 
 
 
-\## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 
 
@@ -107,7 +104,7 @@ flask-shop/
 
 
 
-\##👤 Author
+## 👤 Author
 
 
 
